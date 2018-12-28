@@ -17,8 +17,6 @@ The following benefits will be made through this project.
 ![Image](https://github.com/zacksong/ports/blob/master/0354-skyperth-1-(1).jpg?raw=true)
 (Image from [Fremantle Ports](https://www.fremantleports.com.au/)).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Contact
 
 
