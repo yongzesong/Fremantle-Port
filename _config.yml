@@ -2,8 +2,5 @@ theme: jekyll-theme-cayman
 # Site
 title: Spatial Visualisation and Data Analysis of Ports
 tagline: Fremantle Ports in Western Australia
-baseurl:      ""
-paginate:     1
-locale:       "en"
 description: 
 author: Zack
